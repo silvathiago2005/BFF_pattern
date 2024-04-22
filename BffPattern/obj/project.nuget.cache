@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyc+ZHb6YLZGpD4MY5WEEuKe+qMIN38oAP9lRCtrO5YRRPh2S81X4dA5FrWdvMmc5Q//rmkc6DuWXWDIYFy0Bw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Bff_Pattern\\BffPattern\\BffPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silva\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\silva\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\silva\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

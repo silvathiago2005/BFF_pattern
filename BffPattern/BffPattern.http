@@ -1,0 +1,11 @@
+@BffPattern_HostAddress = http://localhost:5225
+
+GET {{BffPattern_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{BffPattern_HostAddress}}/todos/1
+Accept: application/json
+
+###

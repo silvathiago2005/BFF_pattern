@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNDmvlKibTkl7cESpZpz0e42qMkBl6eninWf3EDo241K1wscV+rm3/uX2K8PYT9eAO35KjDZNogMclV9b/f+MA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Bff_Pattern\\Bff_pattern.Application\\Bff_pattern.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silva\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\silva\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\silva\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\silva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
